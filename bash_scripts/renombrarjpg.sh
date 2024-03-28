@@ -7,5 +7,3 @@ for archivo in *.jpg; do
     mv "$archivo" "$anahi"
     ((contador++))
 done
-
-
