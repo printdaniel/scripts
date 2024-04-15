@@ -17,4 +17,4 @@ fi
 cp -r ~/.config/alacritty ~/.config/i3 ~/.config/rofi "$BACKUP_DIR"/
 
 # Copiar el archivo desde el directorio home
-cp ~/.zshrc "$BACKUP_DIR"/
+cp ~/.zshrc ~/.tmux.conf "$BACKUP_DIR"/
