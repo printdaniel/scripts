@@ -13,3 +13,4 @@
 | backup dotfiles  | Backup dotfiles  |
 | limpieza | limpieza de arhclinus |
 | renombrar jpg | renombra jpg de un directorio |
+| App install | Instala las apps que utilizo a diario |
